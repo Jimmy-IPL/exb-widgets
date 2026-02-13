@@ -1,11 +1,11 @@
 {
-  "name": "Anomaly 3D Visualization DEMO",
-  "label": "Anomaly 3D Visualization DEMO",
+  "name": "Anomaly 3D Visualization (Phase 1 Beta)",
+  "label": "Anomaly 3D Visualization (Phase 1 Beta)",
   "type": "widget",
-  "version": "1.17.0",
+  "version": "1.0",
   "exbVersion": "1.17.0",
-  "author": "Esri R&D Center Beijing",
-  "description": "DEMO",
+  "author": "Jimmy",
+  "description": "Anomaly 3D Visualization (Phase 1 Beta)",
   "copyright": "",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
   "properties": {
